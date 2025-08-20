@@ -24,7 +24,7 @@ npm run reset-project
 
 ## Wireframes das Telas
 
-![01](/assets/images/01.png)
-![02](/assets/images/02.png)
+![01](lanches/assets/images/01.png)
+![02](lanches/assets/images/02.png)
 
 ## Feito por Erick e Justo
